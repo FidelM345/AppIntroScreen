@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SplashScren</string>
+    <string name="get_started">Get Started</string>
+    <string name="work_or_learn_on_your_schedule">Work or Learn on your schedule</string>
+    <string name="anywhere_anytime">Anywhere, anytime</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+</resources>
